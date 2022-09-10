@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @slhanan
-- 👀 I’m interested in ... Backend Data engineering 
+- 👀 I’m interested in ... Backend Data Engineering 
 - 🌱 I’m currently learning ... Ruby & Python
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... stephanie.hanan@fjhit.com
